@@ -1,0 +1,1 @@
+ictf{all_pwn_and_no_web_makes_elliot_a_dull_boy}
